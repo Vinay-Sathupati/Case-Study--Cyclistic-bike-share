@@ -1,6 +1,6 @@
 ---
 title: "Case Study- Cyclistic bike-share"
-output: pdf_document
+output: html_document
 date: "`r Sys.Date()`"
 ---
 
