@@ -1,8 +1,5 @@
----
-title: "Case Study- Cyclistic bike-share"
-output: html_document
-date: "`r Sys.Date()`"
----
+
+# Case Study- Cyclistic bike-share"
 
 ## Introduction
 
