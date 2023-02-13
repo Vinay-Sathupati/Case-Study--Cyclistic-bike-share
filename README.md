@@ -1,5 +1,5 @@
 
-# Case Study- Cyclistic bike-share"
+# Case Study- Cyclistic bike-share
 
 ## Introduction
 
